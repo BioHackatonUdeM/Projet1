@@ -2,6 +2,7 @@
 
 
 Titre : Optimisation des programmes bioinformatique de prédiction de la structure tertiaire d'une protéine membranaire bêta-Barrel
+
 Présenté par : Dr Elitza Tocheva du Tocheva Laboratory du Département de stomatologie de la
 Faculté de médecine dentaire. Aynsley Merk  et Melissa Nelson membres du
 laboratoire Tocheva.
