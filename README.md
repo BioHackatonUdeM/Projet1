@@ -1,1 +1,1 @@
-# Projet1
+# Projet1 - Protéines membranaires beta-Barrel
